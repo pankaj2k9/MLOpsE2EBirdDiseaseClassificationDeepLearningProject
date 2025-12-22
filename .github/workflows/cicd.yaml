@@ -6,6 +6,13 @@ on:
       - main
     paths-ignore:
       - 'README.md'
+      - 'docs/**'
+      - 'documents/**'
+      - '**/*.md'
+      - '**/*.docx'
+      - '**/*.pdf'
+      - '**/*.pptx'
+      - '**/*.xlsx'
 
 permissions:
   id-token: write
