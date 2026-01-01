@@ -70,7 +70,7 @@ Data → Training Pipeline → Model Artifacts → Docker Image
 ├── model
 │   └── model.h5                  # Trained CNN model
 │
-├── research                      # Experimental notebooks
+├── notebooks                      # Experimental notebooks
 │   ├── 01_data_ingestion.ipynb
 │   ├── 02_prepare_base_model.ipynb
 │   ├── 03_model_trainer.ipynb
